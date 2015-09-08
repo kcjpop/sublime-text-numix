@@ -1,7 +1,11 @@
 [
 //
 // TABS (REGULAR)
-//
+    {
+        "class": "icon_file_type",
+        "layer0.opacity": 0,
+        "content_margin": [0, 0]
+    },
     // Tab container
     {
         "class": "tabset_control",
